@@ -1,0 +1,4 @@
+cakephp-exercises
+=================
+
+Cakephp exercises
